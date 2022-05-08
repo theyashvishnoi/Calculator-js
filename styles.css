@@ -51,6 +51,7 @@
   }
   .buttons input[type="button"]:hover {
     box-shadow: 0 8px 25px #ffffff;
+    cursor: pointer;
   }
   input[type="button"]#equal {
     grid-row: span 2;
