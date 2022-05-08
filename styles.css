@@ -5,7 +5,7 @@
     font-family: "Roboto Mono", monospace;
   }
   body {
-    height: 120vh;
+    height: 100vh;
     background: linear-gradient(to bottom, #f9544c 50%, #363636 50%);
   }
   .calculator {
@@ -14,7 +14,7 @@
     padding: 50px 30px;
     position: relative;
     transform: translate(-50%, -50%);
-    top: 40%;
+    top: 50%;
     left: 50%;
     border-radius: 8px;
     box-shadow: 10 20px 50px #4a4a4a87;
